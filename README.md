@@ -5,7 +5,7 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 - 🔭 I’m currently working on Pneumonia Detection using Chest X-Ray Images.
 - 👯 I’m looking to collaborate on algorithms projects, machine learning projects or deep learning projects.
 - 🤔 I’m looking for help with better performance in Image augmentation tasks with GPU.
-- 📫 How to reach me: Mail me to shrey.viradiya.100@outlook.com
+- 📫 How to reach me: connect with me on LinkedIn : [LinkedIn](https://www.linkedin.com/in/shrey-viradiya/)
 
 <!--
 **Shrey-Viradiya/Shrey-Viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
