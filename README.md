@@ -20,16 +20,16 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 </div>
 
-<!--
 ---
 
 <p align="center"> 
   <b>Spotify Playing 🎧...</b><br><br>
-  <img src="https://boomchickboomchick-fy0g8fu0v.vercel.app/api/spotify-playing" alt="Spotify Now Playing" href="https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8"/>
+  <img src="https://spotify-now-playing.shrey-viradiya.vercel.app
+/api/spotify-playing" alt="Spotify Now Playing" href="https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8"/>
 </p>
 <hr>
 
--->
+
 
 ---
 <p align="center">
