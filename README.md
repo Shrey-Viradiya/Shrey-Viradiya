@@ -23,6 +23,8 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 ---
 
+### Spotify Playing 🎧
+
 [<img src="https://spotify-now-playing.shrey-viradiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8)
 
 </p>
