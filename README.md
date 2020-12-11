@@ -7,7 +7,8 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 - 🤔 I’m looking for help with better performance in Image augmentation tasks with GPU.
 - 📫 How to reach me: connect with me on LinkedIn : [LinkedIn](https://www.linkedin.com/in/shrey-viradiya/)
 
-<div style="text-align:center">
+<p align="center">
+ 
 <br>
 
 ### Look at some stats
@@ -18,18 +19,13 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Viradiya&theme=onedark&hide_border=true&langs_count=9&layout=compact)
 
-</div>
+
 
 ---
 
-<p align="center"> 
-  <b>Spotify Playing 🎧...</b><br><br>
-  <img src="https://spotify-now-playing.shrey-viradiya.vercel.app
-/api/spotify-playing" alt="Spotify Now Playing" href="https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8"/>
+[<img src="https://spotify-now-playing.shrey-viradiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8)
+
 </p>
-<hr>
-
-
 
 ---
 <p align="center">
