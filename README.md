@@ -20,6 +20,7 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 </div>
 
+<!--
 ---
 
 <p align="center"> 
@@ -27,6 +28,8 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
   <img src="https://boomchickboomchick-fy0g8fu0v.vercel.app/api/spotify-playing" alt="Spotify Now Playing" href="https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8"/>
 </p>
 <hr>
+
+-->
 
 ---
 <p align="center">
