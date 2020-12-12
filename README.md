@@ -7,30 +7,17 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 - 🤔 I’m looking for help with better performance in Image augmentation tasks with GPU.
 - 📫 How to reach me: 
 
----
-<span>
- 
-[<img alt="Shrey Virdiya | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/shrey-viradiya/)
+[<img align = "left" alt="Shrey Virdiya | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/shrey-viradiya/)
 
-[<img alt="Shrey Virdiya | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/viradiyashrey/)
-
-</span>
+[<img align = "left" alt="Shrey Virdiya | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/viradiyashrey/)
 
 ---
-
-<p align="center">
- 
-<br>
 
 ### Look at some stats
-
-<br>
 
 ![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=Shrey-Viradiya&count_private=true&theme=onedark&hide_border=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Viradiya&theme=onedark&hide_border=true&langs_count=9&layout=compact)
-
-</p>
 
 ---
 
@@ -38,11 +25,10 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 <img align="left" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[<img src="https://spotify-now-playing.shrey-viradiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8)
-
-
+[<img align="right" src="https://spotify-now-playing.shrey-viradiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8)
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrey-Viradiya" alt="Shrey Viradiya" />
     <a href="https://github.com/Shrey-Viradiya/"><img src="https://img.shields.io/github/followers/Shrey-Viradiya?style=flat&color=red&label=GitHub%20Followers%20"/></a>
