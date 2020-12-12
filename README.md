@@ -5,7 +5,7 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 - 🔭 I’m currently working on Pneumonia Detection using Chest X-Ray Images.
 - 👯 I’m looking to collaborate on algorithms projects, machine learning projects or deep learning projects.
 - 🤔 I’m looking for help with better performance in Image augmentation tasks with GPU.
-- 📫 How to reach me: connect with me on LinkedIn : [LinkedIn](https://www.linkedin.com/in/shrey-viradiya/)
+- 📫 How to reach me: connect with me on LinkedIn : [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/shrey-viradiya/)
 
 <p align="center">
  
@@ -15,7 +15,7 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 <br>
 
-![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=Shrey-Viradiya&count_private=true&theme=onedark&hide_border=true)
+![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=Shrey-Viradiya&count_private=true&theme=onedark&hide_border=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Viradiya&theme=onedark&hide_border=true&langs_count=9&layout=compact)
 
