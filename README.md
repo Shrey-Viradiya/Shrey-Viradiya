@@ -11,6 +11,8 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 [<img align = "left" alt="Shrey Virdiya | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/viradiyashrey/)
 
+</br>
+
 ---
 
 ### Look at some stats
@@ -23,9 +25,11 @@ I'm Shrey Viradiya, a computer science and engineering student. Please explore m
 
 ### Spotify Playing 🎧
 
-<img align="left" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[<img align="right" src="https://spotify-now-playing.shrey-viradiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8)
+[<img src="https://spotify-now-playing.shrey-viradiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8)
+
+</br>
 
 ---
 
