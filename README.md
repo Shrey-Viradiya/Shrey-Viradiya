@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Shrey Viradiya, a computer science and engineering student. Please explore my repositories and feel free to give feedback.
+I'm Shrey Viradiya, a computer science and engineering student. I'm technical head at Computer Society of India Student Chapter, Institute of Technology, Nirma University 😉.
+I will be joining Goldman Sachs as Summer Analyst at Engineering division of Bangalore office 😃.
+Please explore my repositories and feel free to give feedback.
 
 - 🔭 I’m currently working on Pneumonia Detection using Chest X-Ray Images.
 - 👯 I’m looking to collaborate on algorithms projects, machine learning projects or deep learning projects.
