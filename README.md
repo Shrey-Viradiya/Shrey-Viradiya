@@ -4,7 +4,6 @@ I'm Shrey Viradiya, a computer science and engineering student. I'm technical he
 I will be joining Goldman Sachs as Summer Analyst at Engineering division of Bangalore office 😃.
 Please explore my repositories and feel free to give feedback.
 
-- 🔭 I’m currently working on Pneumonia Detection using Chest X-Ray Images.
 - 👯 I’m looking to collaborate on algorithms projects, machine learning projects or deep learning projects.
 - 🤔 I’m looking for help with better performance in Image augmentation tasks with GPU.
 - 📫 How to reach me: 
