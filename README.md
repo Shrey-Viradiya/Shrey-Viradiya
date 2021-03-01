@@ -36,7 +36,7 @@ Please explore my repositories and feel free to give feedback.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrey-Viradiya" alt="Shrey Viradiya" />
+  <a href="https://github.com/Shrey-Viradiya/"><img src="https://komarev.com/ghpvc/?username=Shrey-Viradiya" alt="Shrey Viradiya" /></a>
     <a href="https://github.com/Shrey-Viradiya/"><img src="https://img.shields.io/github/followers/Shrey-Viradiya?style=flat&color=red&label=GitHub%20Followers%20"/></a>
   <a href="https://github.com/Shrey-Viradiya/"><img src="https://img.shields.io/github/last-commit/Shrey-Viradiya/Shrey-Viradiya?style=flat&color=brightgreen&label=Last%20Updated%20"/></a>
 </p>
