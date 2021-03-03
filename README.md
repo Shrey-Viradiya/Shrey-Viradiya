@@ -23,15 +23,6 @@ Please explore my repositories and feel free to give feedback.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Viradiya&theme=onedark&hide_border=true&langs_count=9&layout=compact)
 
----
-
-### Spotify Playing 🎧
-
-<img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-[<img src="https://spotify-now-playing.shrey-viradiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vobmr9ot6816x0kr9ffjog3o8)
-
-</br>
 
 ---
 
