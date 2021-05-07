@@ -5,7 +5,7 @@ I'm Shrey Viradiya, a computer science and engineering student. I'm the technica
 Please explore my repositories and feel free to give feedback.
 
 - 🤝 I’m looking to collaborate on algorithms projects, machine learning projects or deep learning projects.
-- 🌱 I’m currently learning Fast.ai, Modern C++, Advanced Data Structures, Graph Theory and, Financial Management.
+- 🌱 I’m currently learning Fast.ai.
 - 🤔 I’m looking for help with better performance in Image augmentation tasks with GPU.
 - 📫 How to reach me: 
 
