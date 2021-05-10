@@ -5,7 +5,6 @@ I'm Shrey Viradiya, a computer science and engineering student. I'm the technica
 Please explore my repositories and feel free to give feedback.
 
 - 🤝 I’m looking to collaborate on algorithms projects, machine learning projects or deep learning projects.
-- 🤔 I’m looking for help with better performance in Image augmentation tasks with GPU.
 - 📫 How to reach me: 
 
 [<img align = "left" alt="Shrey Virdiya | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/shrey-viradiya/)
