@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Shrey Viradiya, a computer science and engineering student. I'm the technical head at Computer Society of India Student Chapter, Institute of Technology, Nirma University 😉. I have joined Goldman Sachs as Summer Analyst at Engineering division of Bangalore office 😃.
+I'm Shrey Viradiya, a computer science and engineering student. I'm the technical head at Computer Society of India Student Chapter, Institute of Technology, Nirma University 😉. I have summer internship experience at Goldman Sachs, Banglore 😃.
 
 Please explore my repositories and feel free to give feedback.
 
