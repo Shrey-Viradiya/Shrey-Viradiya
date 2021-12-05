@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Shrey Viradiya, a computer science and engineering student. I'm the technical head at Computer Society of India Student Chapter, Institute of Technology, Nirma University 😉. I have summer internship experience at Goldman Sachs, Banglore 😃.
+I'm Shrey Viradiya, a computer science and engineering student. I'm the web developer mentor at Google Developers Students Community(GDSC), Nirma University 😉. I have summer internship experience at Goldman Sachs, Banglore 😃.
 
 Please explore my repositories and feel free to give feedback.
 
 - 🤝 I’m looking to collaborate on algorithms projects, machine learning projects or deep learning projects.
 - 📫 How to reach me: 
 
-[<img align = "left" alt="Shrey Virdiya | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/shrey-viradiya/)
+[<img align = "left" alt="Shrey Virdiya | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/1076/1076992.png"/>](https://www.linkedin.com/in/shrey-viradiya/)
 
 </br>
 
