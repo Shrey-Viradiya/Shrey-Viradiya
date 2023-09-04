@@ -11,14 +11,6 @@ Please explore my repositories and feel free to give feedback.
 
 </br>
 
----
-
-### Look at some stats
-
-![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=Shrey-Viradiya&count_private=true&theme=onedark&hide_border=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Viradiya&theme=onedark&hide_border=true&langs_count=9&layout=compact)
-
 
 ---
 
