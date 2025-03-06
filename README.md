@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Shrey Viradiya, a technology analyst at Goldman Sachs, Bangalore 😃.
+I'm Shrey Viradiya, a SDE 2 at Goldman Sachs, Bangalore 😃.
 
 Please explore my repositories and feel free to give feedback.
 
